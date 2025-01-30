@@ -13,7 +13,7 @@
 - Фреймворки: React
 - Препроцессоры: SCSS
 - Сборщики: Vite
-- Инструменты: Git, Visual Studio Code, Figma, Bootstrap, MobX
+- Инструменты: Git, Visual Studio Code, Figma, Bootstrap, MobX, Tailwind CSS, Shadcn
 
 ## 🎉 Спасибо за визит!
 
